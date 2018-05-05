@@ -14,7 +14,7 @@
 
  
 ## 文件说明
-这几课是从coursera里吴恩达Deep Learning课程中拿出的作业，可以配合视频来学习了解并完成神经网络，深层神经网络的优化，Tensorflow以及卷积神经网络等相关代码。
+01-05课是从coursera里吴恩达Deep Learning课程中拿出的作业，可以配合视频来学习了解并完成神经网络，深层神经网络的优化，Tensorflow以及卷积神经网络等相关代码。
 代码通过jupyter打开。只需要在中间加入自己的代码即可，然后Shift+Enter运行每一块。
 ```
 ### START CODE HERE ### (≈ 1 line of code)
@@ -22,4 +22,5 @@ test = "Hello World"
  ### END CODE HERE ###
 ```
 
+06是全部的课程讲义从网易云课程里下载。07是从[网站](http://www.ai-start.com/dl2017/)下载整理的图文版的视频资料，相当于吴恩达在视频里所说的话和图片都被整理到了这里，非常有参考价值。
 
